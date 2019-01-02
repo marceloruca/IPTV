@@ -1,0 +1,305 @@
+#EXTM3U
+#EXTINF:0, tvg-id="Rtp1.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTP1.png" tvg-name="PT VIP - RTP 1"  group-title="VIP | PORTUGAL",PT VIP - RTP 1
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34215.ts
+#EXTINF:0, tvg-id="Rtp1.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTP1.png" tvg-name="PT VIP - RTP 1 HD"  group-title="VIP | PORTUGAL",PT VIP - RTP 1 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34214.ts
+#EXTINF:0, tvg-id="Rtp2.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTP2.png" tvg-name="PT VIP - RTP 2"  group-title="VIP | PORTUGAL",PT VIP - RTP 2
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34213.ts
+#EXTINF:0, tvg-id="Rtp2.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTP2.png" tvg-name="PT VIP - RTP 2 HD"  group-title="VIP | PORTUGAL",PT VIP - RTP 2 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34212.ts
+#EXTINF:0, tvg-id="Sic.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SIC.png" tvg-name="PT VIP - SIC"  group-title="VIP | PORTUGAL",PT VIP - SIC
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34206.ts
+#EXTINF:0, tvg-id="Sic.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SIC.png" tvg-name="PT VIP - SIC HD"  group-title="VIP | PORTUGAL",PT VIP - SIC HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34203.ts
+#EXTINF:0, tvg-id="Tvi.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVI.png" tvg-name="PT VIP - TVI"  group-title="VIP | PORTUGAL",PT VIP - TVI
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34158.ts
+#EXTINF:0, tvg-id="Tvi.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVI.png" tvg-name="PT VIP - TVI HD"  group-title="VIP | PORTUGAL",PT VIP - TVI HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34155.ts
+#EXTINF:0, tvg-id="SicNoticias.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICNOTICIAS.png" tvg-name="PT VIP - SIC Noti"  group-title="VIP | PORTUGAL",PT VIP - SIC Noti
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34199.ts
+#EXTINF:0, tvg-id="Rtp3.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTP3.png" tvg-name="PT VIP - RTP 3"  group-title="VIP | PORTUGAL",PT VIP - RTP 3
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34211.ts
+#EXTINF:0, tvg-id="Tvi24.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVI24.png" tvg-name="PT VIP - TVI 24"  group-title="VIP | PORTUGAL",PT VIP - TVI 24
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34157.ts
+#EXTINF:0, tvg-id="Cmtv.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CMTV.png" tvg-name="PT VIP - CMTV"  group-title="VIP | PORTUGAL",PT VIP - CMTV
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34269.ts
+#EXTINF:0, tvg-id="Cmtv.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CMTV.png" tvg-name="PT VIP - CMTV HD"  group-title="VIP | PORTUGAL",PT VIP - CMTV HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34268.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVGLOBO.png" tvg-name="PT VIP - TV Globo NOW"  group-title="VIP | PORTUGAL",PT VIP - TV Globo NOW
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34169.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVGLOBO.png" tvg-name="PT VIP - TV Globo Premium"  group-title="VIP | PORTUGAL",PT VIP - TV Globo Premium
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34168.ts
+#EXTINF:0, tvg-id="SicMulher.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICMULHER.png" tvg-name="PT VIP - SIC Mulher"  group-title="VIP | PORTUGAL",PT VIP - SIC Mulher
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34201.ts
+#EXTINF:0, tvg-id="SicMulher.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICMULHER.png" tvg-name="PT VIP - Sic Mulher HD"  group-title="VIP | PORTUGAL",PT VIP - Sic Mulher HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34200.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVI.png" tvg-name="PT VIP - TVI Reality"  group-title="VIP | PORTUGAL",PT VIP - TVI Reality
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34154.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVI.png" tvg-name="PT VIP - TVI Reality Camara Exclusiva 1"  group-title="VIP | PORTUGAL",PT VIP - TVI Reality Camara Exclusiva 1
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34153.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVIFIC.png" tvg-name="PT VIP - TVI Reality Camara Exclusiva 2"  group-title="VIP | PORTUGAL",PT VIP - TVI Reality Camara Exclusiva 2
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34152.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVIFIC.png" tvg-name="PT VIP - TVI Reality Camara Exclusiva 3"  group-title="VIP | PORTUGAL",PT VIP - TVI Reality Camara Exclusiva 3
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34151.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVI.png" tvg-name="PT VIP - TVI Reality Camara Exclusiva 4"  group-title="VIP | PORTUGAL",PT VIP - TVI Reality Camara Exclusiva 4
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34150.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVI.png" tvg-name="PT VIP - TVI Reality Mosaico"  group-title="VIP | PORTUGAL",PT VIP - TVI Reality Mosaico
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34149.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/PORTOCANAL.png" tvg-name="PT VIP - Porto Canal"  group-title="VIP | PORTUGAL",PT VIP - Porto Canal
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34218.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/PORTOCANAL.png" tvg-name="PT VIP - Porto Canal HD"  group-title="VIP | PORTUGAL",PT VIP - Porto Canal HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34217.ts
+#EXTINF:0, tvg-id="SicCaras.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICCARAS.png" tvg-name="PT VIP - SIC Caras"  group-title="VIP | PORTUGAL",PT VIP - SIC Caras
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34205.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICCARAS.png" tvg-name="PT VIP - SIC Caras HD"  group-title="VIP | PORTUGAL",PT VIP - SIC Caras HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34204.ts
+#EXTINF:0, tvg-id="SicRadical.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICRADICAL.png" tvg-name="PT VIP - SIC Radical"  group-title="VIP | PORTUGAL",PT VIP - SIC Radical
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34198.ts
+#EXTINF:0, tvg-id="SicRadical.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICRADICAL.png" tvg-name="PT VIP - SIC Radical HD"  group-title="VIP | PORTUGAL",PT VIP - SIC Radical HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34197.ts
+#EXTINF:0, tvg-id="RtpMemoria.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTPMEMORIA.png" tvg-name="PT VIP - RTP Memoria"  group-title="VIP | PORTUGAL",PT VIP - RTP Memoria
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34207.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTPA%C6%91FRICA.png" tvg-name="PT VIP - RTP Africa"  group-title="VIP | PORTUGAL",PT VIP - RTP Africa
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34209.ts
+#EXTINF:0, tvg-id="RtpAcores.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTPA%C6%91FRICA.png" tvg-name="PT VIP - RTP A"  group-title="VIP | PORTUGAL",PT VIP - RTP A
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34210.ts
+#EXTINF:0, tvg-id="RtpMemoria.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/RTPMEMORIA.png" tvg-name="PT VIP - RTP Madeira"  group-title="VIP | PORTUGAL",PT VIP - RTP Madeira
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34208.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - Sport TV"  group-title="VIP | PORTUGAL",PT VIP - Sport TV
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34196.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - SporTV  HD"  group-title="VIP | PORTUGAL",PT VIP - SporTV  HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34189.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - SporTV 1"  group-title="VIP | PORTUGAL",PT VIP - SporTV 1
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34188.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - SporTV 1 HD"  group-title="VIP | PORTUGAL",PT VIP - SporTV 1 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34186.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - SporTV 1 FHD"  group-title="VIP | PORTUGAL",PT VIP - SporTV 1 FHD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34187.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - SporTV 2"  group-title="VIP | PORTUGAL",PT VIP - SporTV 2
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34185.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - SporTV 2 HD"  group-title="VIP | PORTUGAL",PT VIP - SporTV 2 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34183.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - SporTV 2 FHD"  group-title="VIP | PORTUGAL",PT VIP - SporTV 2 FHD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34184.ts
+#EXTINF:0, tvg-id="SportTV3.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV3.png" tvg-name="PT VIP - SporTV 3"  group-title="VIP | PORTUGAL",PT VIP - SporTV 3
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34182.ts
+#EXTINF:0, tvg-id="SportTV3.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV3.png" tvg-name="PT VIP - SportTV 3 HD"  group-title="VIP | PORTUGAL",PT VIP - SportTV 3 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34190.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV3.png" tvg-name="PT VIP - SporTV 3 FHD"  group-title="VIP | PORTUGAL",PT VIP - SporTV 3 FHD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34181.ts
+#EXTINF:0, tvg-id="SportTV4.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - SporTV 4"  group-title="VIP | PORTUGAL",PT VIP - SporTV 4
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34180.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - SporTV 4 HD"  group-title="VIP | PORTUGAL",PT VIP - SporTV 4 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34179.ts
+#EXTINF:0, tvg-id="SportTV4.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - Sport TV 4 FHD"  group-title="VIP | PORTUGAL",PT VIP - Sport TV 4 FHD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34195.ts
+#EXTINF:0, tvg-id="SportTV5.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV5.png" tvg-name="PT VIP - SporTV 5"  group-title="VIP | PORTUGAL",PT VIP - SporTV 5
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34178.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV5.png" tvg-name="PT VIP - SporTV 5 HD"  group-title="VIP | PORTUGAL",PT VIP - SporTV 5 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34177.ts
+#EXTINF:0, tvg-id="SportTV5.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV5.png" tvg-name="PT VIP - Sport TV 5 FHD"  group-title="VIP | PORTUGAL",PT VIP - Sport TV 5 FHD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34193.ts
+#EXTINF:0, tvg-id="SportTV4.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - Sport TV 4K"  group-title="VIP | PORTUGAL",PT VIP - Sport TV 4K
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34194.ts
+#EXTINF:0, tvg-id="SportingTV.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTINGTV.png" tvg-name="PT VIP - Sporting TV"  group-title="VIP | PORTUGAL",PT VIP - Sporting TV
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34192.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTINGTV.png" tvg-name="PT VIP - Sporting TV HD"  group-title="VIP | PORTUGAL",PT VIP - Sporting TV HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34191.ts
+#EXTINF:0, tvg-id="ABolaTV.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ABOLATV.png" tvg-name="PT VIP - A Bola TV"  group-title="VIP | PORTUGAL",PT VIP - A Bola TV
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34292.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/CANADA/BET.png" tvg-name="PT VIP - BTV"  group-title="VIP | PORTUGAL",PT VIP - BTV
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34279.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/CANADA/BET.png" tvg-name="PT VIP - BTV HD"  group-title="VIP | PORTUGAL",PT VIP - BTV HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34277.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/CANADA/BET.png" tvg-name="PT VIP - BTV FHD"  group-title="VIP | PORTUGAL",PT VIP - BTV FHD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34278.ts
+#EXTINF:0, tvg-id="Eurosport1.pt" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/EUROSPORT1HD.png" tvg-name="PT VIP - Eurosport 1 HD"  group-title="VIP | PORTUGAL",PT VIP - Eurosport 1 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34260.ts
+#EXTINF:0, tvg-id="Eurosport2.pt" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/EUROSPORT2.png" tvg-name="PT VIP - Eurosport 2"  group-title="VIP | PORTUGAL",PT VIP - Eurosport 2
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34259.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/SPAIN/R.MADRIDTV.png" tvg-name="PT VIP - Real Madrid TV"  group-title="VIP | PORTUGAL",PT VIP - Real Madrid TV
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34216.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ELEVENSPORT.png" tvg-name="PT VIP -ELEVEN SPORTS 1 HD"  group-title="VIP | PORTUGAL",PT VIP -ELEVEN SPORTS 1 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34299.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ELEVENSPORT.png" tvg-name="PT VIP -ELEVEN SPORTS 2 HD"  group-title="VIP | PORTUGAL",PT VIP -ELEVEN SPORTS 2 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34298.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ELEVENSPORT.png" tvg-name="PT VIP -ELEVEN SPORTS 3 HD"  group-title="VIP | PORTUGAL",PT VIP -ELEVEN SPORTS 3 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34297.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ELEVENSPORT.png" tvg-name="PT VIP -ELEVEN SPORTS 4 HD"  group-title="VIP | PORTUGAL",PT VIP -ELEVEN SPORTS 4 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34296.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ELEVENSPORT.png" tvg-name="PT VIP -ELEVEN SPORTS 5 HD"  group-title="VIP | PORTUGAL",PT VIP -ELEVEN SPORTS 5 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34295.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ELEVENSPORT.png" tvg-name="PT VIP -ELEVEN SPORTS 6 HD"  group-title="VIP | PORTUGAL",PT VIP -ELEVEN SPORTS 6 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34294.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVCINE3.png" tvg-name="PT VIP - TVCine 1"  group-title="VIP | PORTUGAL",PT VIP - TVCine 1
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34166.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVCINE3.png" tvg-name="PT VIP - TVCine 1 HD"  group-title="VIP | PORTUGAL",PT VIP - TVCine 1 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34165.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVCINE3.png" tvg-name="PT VIP - TVCine 2"  group-title="VIP | PORTUGAL",PT VIP - TVCine 2
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34164.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVCINE3.png" tvg-name="PT VIP - TVCine 2 HD"  group-title="VIP | PORTUGAL",PT VIP - TVCine 2 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34163.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVCINE3.png" tvg-name="PT VIP - TVCine 3"  group-title="VIP | PORTUGAL",PT VIP - TVCine 3
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34162.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVCINE3.png" tvg-name="PT VIP - TVCine 3 HD"  group-title="VIP | PORTUGAL",PT VIP - TVCine 3 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34161.ts
+#EXTINF:0, tvg-id="Tvcine4.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVCINE4.png" tvg-name="PT VIP - TVCine 4"  group-title="VIP | PORTUGAL",PT VIP - TVCine 4
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34160.ts
+#EXTINF:0, tvg-id="Tvcine1.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVCINE4.png" tvg-name="PT VIP - TVCine 4 HD"  group-title="VIP | PORTUGAL",PT VIP - TVCine 4 HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34159.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/AXNBLACK.png" tvg-name="PT VIP - AXN Black"  group-title="VIP | PORTUGAL",PT VIP - AXN Black
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34286.ts
+#EXTINF:0, tvg-id="AXNBlack.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/AXNBLACK.png" tvg-name="PT VIP - AXN Black HD"  group-title="VIP | PORTUGAL",PT VIP - AXN Black HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34285.ts
+#EXTINF:0, tvg-id="AXN.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/AXNHD.png" tvg-name="PT VIP - AXN HD"  group-title="VIP | PORTUGAL",PT VIP - AXN HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34284.ts
+#EXTINF:0, tvg-id="AXNWhite.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/AXNWHITE.png" tvg-name="PT VIP - AXN White"  group-title="VIP | PORTUGAL",PT VIP - AXN White
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34283.ts
+#EXTINF:0, tvg-id="AXNWhite.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/AXNWHITE.png" tvg-name="PT VIP - AXN White HD"  group-title="VIP | PORTUGAL",PT VIP - AXN White HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34282.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CINEMUNDO.png" tvg-name="PT VIP - CineMundo"  group-title="VIP | PORTUGAL",PT VIP - CineMundo
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34270.ts
+#EXTINF:0, tvg-id="FoxComedy.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXCOMEDY.png" tvg-name="PT VIP - Fox Comedy"  group-title="VIP | PORTUGAL",PT VIP - Fox Comedy
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34254.ts
+#EXTINF:0, tvg-id="FoxComedy.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXCOMEDY.png" tvg-name="PT VIP - Fox Comedy HD"  group-title="VIP | PORTUGAL",PT VIP - Fox Comedy HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34253.ts
+#EXTINF:0, tvg-id="FoxCrime.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXCRIME.png" tvg-name="PT VIP - Fox Crime"  group-title="VIP | PORTUGAL",PT VIP - Fox Crime
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34252.ts
+#EXTINF:0, tvg-id="FoxCrime.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXCRIMEHD.png" tvg-name="PT VIP - Fox Crime HD"  group-title="VIP | PORTUGAL",PT VIP - Fox Crime HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34251.ts
+#EXTINF:0, tvg-id="Fox.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXHD.png" tvg-name="PT VIP - Fox HD"  group-title="VIP | PORTUGAL",PT VIP - Fox HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34250.ts
+#EXTINF:0, tvg-id="FoxLife.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXHD.png" tvg-name="PT VIP - Fox Life"  group-title="VIP | PORTUGAL",PT VIP - Fox Life
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34249.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXHD.png" tvg-name="PT VIP - Fox Life HD"  group-title="VIP | PORTUGAL",PT VIP - Fox Life HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34248.ts
+#EXTINF:0, tvg-id="FoxMovies.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXMOVIESHD.png" tvg-name="PT VIP - Fox Movies"  group-title="VIP | PORTUGAL",PT VIP - Fox Movies
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34247.ts
+#EXTINF:0, tvg-id="FoxMovies.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FOXMOVIESHD.png" tvg-name="PT VIP - Fox Movies HD"  group-title="VIP | PORTUGAL",PT VIP - Fox Movies HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34246.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/HOLLYWOOD.png" tvg-name="PT VIP - Hollywood"  group-title="VIP | PORTUGAL",PT VIP - Hollywood
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34243.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/HOLLYWOODHD.png" tvg-name="PT VIP - Hollywood HD"  group-title="VIP | PORTUGAL",PT VIP - Hollywood HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34242.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SYFYHD.png" tvg-name="PT VIP - SyFy"  group-title="VIP | PORTUGAL",PT VIP - SyFy
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34175.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SYFYHD.png" tvg-name="PT VIP - SyFy HD"  group-title="VIP | PORTUGAL",PT VIP - SyFy HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34174.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/USA/CRIME%26INVESTIGATION.png" tvg-name="PT VIP - Crime Investigation"  group-title="VIP | PORTUGAL",PT VIP - Crime Investigation
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34267.ts
+#EXTINF:0, tvg-id="BabyTV.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/BABYTV.png" tvg-name="PT VIP - Baby TV"  group-title="VIP | PORTUGAL",PT VIP - Baby TV
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34281.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/SPAIN/BLAZE.png" tvg-name="PT VIP - Blaze"  group-title="VIP | PORTUGAL",PT VIP - Blaze
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34280.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CANALQ.png" tvg-name="PT VIP - Ca"  group-title="VIP | PORTUGAL",PT VIP - Ca
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34276.ts
+#EXTINF:0, tvg-id="CanalUmEuropa.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CANALPANDA.png" tvg-name="PT VIP - Canal  Panda"  group-title="VIP | PORTUGAL",PT VIP - Canal  Panda
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34275.ts
+#EXTINF:0, tvg-id="CartoonNetwork.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CARTOONNETWORK.png" tvg-name="PT VIP - Cartoon Network"  group-title="VIP | PORTUGAL",PT VIP - Cartoon Network
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34272.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CBSREALITY.png" tvg-name="PT VIP - CBS Reality"  group-title="VIP | PORTUGAL",PT VIP - CBS Reality
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34271.ts
+#EXTINF:0, tvg-id="DiscoveryChannel.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/DISCOVERYHD.png" tvg-name="PT VIP - Discovery Channel"  group-title="VIP | PORTUGAL",PT VIP - Discovery Channel
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34266.ts
+#EXTINF:0, tvg-id="DiscoveryChannel.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/DISCOVERYHD.png" tvg-name="PT VIP - Discovery Showcase HD"  group-title="VIP | PORTUGAL",PT VIP - Discovery Showcase HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34265.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/PORTOCANAL.png" tvg-name="PT VIP - Canal Hist"  group-title="VIP | PORTUGAL",PT VIP - Canal Hist
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34274.ts
+#EXTINF:0, tvg-id="CanalQ.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CANALQ.png" tvg-name="PT VIP - Canal Q"  group-title="VIP | PORTUGAL",PT VIP - Canal Q
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34273.ts
+#EXTINF:0, tvg-id="DisneyChannel.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/DISNEYCHANNEL.png" tvg-name="PT VIP - Disney Channel"  group-title="VIP | PORTUGAL",PT VIP - Disney Channel
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34264.ts
+#EXTINF:0, tvg-id="DisneyJunior.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/DISNEYJR.png" tvg-name="PT VIP - Disney Junior"  group-title="VIP | PORTUGAL",PT VIP - Disney Junior
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34263.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/TURKIYE/DOSTTV.png" tvg-name="PT VIP - Dog TV HD"  group-title="VIP | PORTUGAL",PT VIP - Dog TV HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34262.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/E%21ENTERTAINMENTTV.png" tvg-name="PT VIP - E! Enterteinement"  group-title="VIP | PORTUGAL",PT VIP - E! Enterteinement
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34261.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/SCANDINAVIAN/FATSTONETV.png" tvg-name="PT VIP - Fashion TV"  group-title="VIP | PORTUGAL",PT VIP - Fashion TV
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34258.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CARTOONNETWORK.png" tvg-name="PT VIP - Fight Network HD"  group-title="VIP | PORTUGAL",PT VIP - Fight Network HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34257.ts
+#EXTINF:0, tvg-id="FineLiving.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FINELIVING.png" tvg-name="PT VIP - Fine Living Network HD"  group-title="VIP | PORTUGAL",PT VIP - Fine Living Network HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34256.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CARTOONNETWORK.png" tvg-name="PT VIP - Food Network"  group-title="VIP | PORTUGAL",PT VIP - Food Network
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34255.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FUELTV.png" tvg-name="PT VIP - Fuel TV"  group-title="VIP | PORTUGAL",PT VIP - Fuel TV
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34245.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/FUELTVHD.png" tvg-name="PT VIP - Fuel TV HD"  group-title="VIP | PORTUGAL",PT VIP - Fuel TV HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34244.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/USA/AMERICANHEROESANDICONS.png" tvg-name="PT VIP - IConcerts HD"  group-title="VIP | PORTUGAL",PT VIP - IConcerts HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34241.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/POLONIA/POLSATJIMJAM.png" tvg-name="PT VIP - Jim Jam"  group-title="VIP | PORTUGAL",PT VIP - Jim Jam
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34240.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SPORTTV.png" tvg-name="PT VIP - Kombat Sport"  group-title="VIP | PORTUGAL",PT VIP - Kombat Sport
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34239.ts
+#EXTINF:0, tvg-id="LocalvisaoTV.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/LOCALVISAOTVHD.png" tvg-name="PT VIP - LocalVisao HD"  group-title="VIP | PORTUGAL",PT VIP - LocalVisao HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34238.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/POLONIA/FIGHTKLUBHD.png" tvg-name="PT VIP - Luxe TV"  group-title="VIP | PORTUGAL",PT VIP - Luxe TV
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34237.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MCMTOP.png" tvg-name="PT VIP - MCM Pop"  group-title="VIP | PORTUGAL",PT VIP - MCM Pop
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34236.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MCMTOP.png" tvg-name="PT VIP - MCM TOP"  group-title="VIP | PORTUGAL",PT VIP - MCM TOP
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34235.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/SPAIN/MEZZOLIVEHD.png" tvg-name="PT VIP - Mezzo HD"  group-title="VIP | PORTUGAL",PT VIP - Mezzo HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34234.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MOTORVISION.png" tvg-name="PT VIP - Motors TV"  group-title="VIP | PORTUGAL",PT VIP - Motors TV
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34233.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/MOTORVISION.png" tvg-name="PT VIP - Motorvision"  group-title="VIP | PORTUGAL",PT VIP - Motorvision
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34232.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CMTV.png" tvg-name="PT VIP - MTV [PT]"  group-title="VIP | PORTUGAL",PT VIP - MTV [PT]
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34231.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/USA/MY9.png" tvg-name="PT VIP - My Cuisinne"  group-title="VIP | PORTUGAL",PT VIP - My Cuisinne
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34230.ts
+#EXTINF:0, tvg-id="NatGeo.pt" tvg-logo="http://212.8.253.112/logo/SPAIN/NATGEOHD.png" tvg-name="PT VIP - Nat Geo"  group-title="VIP | PORTUGAL",PT VIP - Nat Geo
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34229.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/SPAIN/NATGEOHD.png" tvg-name="PT VIP - Nat Geo HD"  group-title="VIP | PORTUGAL",PT VIP - Nat Geo HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34228.ts
+#EXTINF:0, tvg-id="NatGeo.pt" tvg-logo="http://212.8.253.112/logo/SPAIN/NATGEOWILD.png" tvg-name="PT VIP - Nat Geo Wild"  group-title="VIP | PORTUGAL",PT VIP - Nat Geo Wild
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34227.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/SPAIN/NATGEOWILD.png" tvg-name="PT VIP - Nat Geo Wild HD"  group-title="VIP | PORTUGAL",PT VIP - Nat Geo Wild HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34226.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/USA/NBAPREMIUMHD.png" tvg-name="PT VIP - NBA HD"  group-title="VIP | PORTUGAL",PT VIP - NBA HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34225.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/TURKIYE/NICKJR.png" tvg-name="PT VIP - Nick JR."  group-title="VIP | PORTUGAL",PT VIP - Nick JR.
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34224.ts
+#EXTINF:0, tvg-id="Nickelodeon.pt" tvg-logo="http://212.8.253.112/logo/USA/NICKELODEON.png" tvg-name="PT VIP - Nickelodeon"  group-title="VIP | PORTUGAL",PT VIP - Nickelodeon
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34223.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/USA/EPIXHITS.png" tvg-name="PT VIP - NRJ Hits"  group-title="VIP | PORTUGAL",PT VIP - NRJ Hits
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34222.ts
+#EXTINF:0, tvg-id="Odisseia.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/ODISSEIA.png" tvg-name="PT VIP - Odisseia"  group-title="VIP | PORTUGAL",PT VIP - Odisseia
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34221.ts
+#EXTINF:0, tvg-id="" tvg-logo="Logo N/A" tvg-name="PT VIP - Outdoor Channel HD"  group-title="VIP | PORTUGAL",PT VIP - Outdoor Channel HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34220.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/CANALPANDA.png" tvg-name="PT VIP - Panda Biggs"  group-title="VIP | PORTUGAL",PT VIP - Panda Biggs
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34219.ts
+#EXTINF:0, tvg-id="SicK.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SICK.png" tvg-name="PT VIP - Sic Kids"  group-title="VIP | PORTUGAL",PT VIP - Sic Kids
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34202.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/SUNDANCETVHD.png" tvg-name="PT VIP - Sundance TV HD"  group-title="VIP | PORTUGAL",PT VIP - Sundance TV HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34176.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVRECORD.png" tvg-name="PT VIP - TV Record HD"  group-title="VIP | PORTUGAL",PT VIP - TV Record HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34167.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVIFIC.png" tvg-name="PT VIP - TVI Fic"  group-title="VIP | PORTUGAL",PT VIP - TVI Fic
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34156.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TLC.png" tvg-name="PT VIP - TLC"  group-title="VIP | PORTUGAL",PT VIP - TLC
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34173.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/SPAIN/TOROSHD.png" tvg-name="PT VIP - Toros TV"  group-title="VIP | PORTUGAL",PT VIP - Toros TV
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34172.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/24KITCHENHD.png" tvg-name="PT VIP - 24 Kitchen HD"  group-title="VIP | PORTUGAL",PT VIP - 24 Kitchen HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34293.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/NEDERLAND/MUSIC.png" tvg-name="PT VIP - Afro Music Channel"  group-title="VIP | PORTUGAL",PT VIP - Afro Music Channel
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34290.ts
+#EXTINF:0, tvg-id="AMC.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/AMC.png" tvg-name="PT VIP - AMC"  group-title="VIP | PORTUGAL",PT VIP - AMC
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34289.ts
+#EXTINF:0, tvg-id="AMC.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/AMC.png" tvg-name="PT VIP - AMC HD"  group-title="VIP | PORTUGAL",PT VIP - AMC HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34288.ts
+#EXTINF:0, tvg-id="Artv.pt" tvg-logo="http://212.8.253.112/logo/CANADA/ARTV.png" tvg-name="PT VIP - ARTV Parlamento"  group-title="VIP | PORTUGAL",PT VIP - ARTV Parlamento
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34287.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TRAVELCHANNELHD.png" tvg-name="PT VIP - Trace&Urban"  group-title="VIP | PORTUGAL",PT VIP - Trace&Urban
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34171.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TRAVELCHANNELHD.png" tvg-name="PT VIP - Travel Channel HD"  group-title="VIP | PORTUGAL",PT VIP - Travel Channel HD
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34170.ts
+#EXTINF:0, tvg-id="TvSeries.pt" tvg-logo="http://212.8.253.112/logo/PORTUGAL/TVSERIES.png" tvg-name="PT VIP - TVS"  group-title="VIP | PORTUGAL",PT VIP - TVS
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34148.ts
+#EXTINF:0, tvg-id="" tvg-logo="http://212.8.253.112/logo/POLONIA/VH1.png" tvg-name="PT VIP - VH1"  group-title="VIP | PORTUGAL",PT VIP - VH1
+http://king-ott.com:80/live/914566115966/JvlpknvovJTUtgb/34147.ts
